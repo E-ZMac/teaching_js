@@ -1,9 +1,5 @@
 // ## Inline CSS
 
-<div>
-    <h1 style= "color: blue">This will be blue</h1>
-</div>
-
 // ## Javascript
 
 
